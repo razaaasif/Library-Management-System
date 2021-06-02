@@ -1,3 +1,4 @@
+create database libman;
 use libman;
 
 create table student (studentID varchar(20),name varchar(50),fatherName varchar(50),courseName varchar(5), branchName varchar(20));
